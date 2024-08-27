@@ -42,7 +42,7 @@
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
-            background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(17, 54, 71));
+            background-image: linear-gradient(to left, #0099cc 0%, #993399 60%);
         }
         .box{
             color: white;
